@@ -1,0 +1,19 @@
+python digital_diary.py
++------------------------------------------------------+
+|                    DIGITAL DIARY                  |
+|                                                      |
+|       Date: [ 13-08-2026 ]                           |
+|                                                      |
+|       Write Your Diary Entry:                        |
+|                                                      |
+|   +----------------------------------------------+   |
+|   | Today I learned Python GUI programming.      |   |
+|   |                                              |   |
+|   | I created my first digital diary project.    |   |
+|   |                                              |   |
+|   +----------------------------------------------+   |
+|                                                      |
+| [ Save Entry ] [ View Entry ] [ Delete Entry ] [Clear]|
+|                                                      |
+|       Python Digital Diary | VS Code Project         |
++------------------------------------------------------+

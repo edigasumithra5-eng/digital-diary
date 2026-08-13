@@ -1,0 +1,5 @@
+```text
+# Digital Diary
+# No external packages are required.
+# Python 3.x and Tkinter are required.
+```
